@@ -6,6 +6,9 @@
 /.pnp
 .pnp.js
 
+# Public
+/public
+.robots.txt
 
 # testing
 /coverage
