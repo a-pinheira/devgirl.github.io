@@ -1,5 +1,9 @@
 ﻿# devgirl.github.io
 
+! [DevMedia] (https://www.devmedia.com.br/trabalhando-com-o-repositorio-remoto-no-git/33786)
+
+! [DevGirls] (http://www.devgirls.ml/) 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
